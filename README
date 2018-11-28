@@ -1,0 +1,4 @@
+1. Download the python file
+2. Run it with python3 (need requests package, but it should be in python3 by default)
+
+user$ python3 maze.py
